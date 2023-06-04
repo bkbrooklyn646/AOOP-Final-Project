@@ -1,5 +1,6 @@
 # AOOP-Final-Project
 This is a final project for Advanced Object Oriented Programming
+Year 2 Semester 1 (2022)
 
 ## Purpose of the Application
 
